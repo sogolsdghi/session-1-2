@@ -43,3 +43,26 @@ Student No. of member 2: `[FILL HERE]`
 
 - [ ] `[FILL HERE with image of fourth part code]`
 - [ ] `[FILL HERE with image of fourth part running]`
+
+### Section 2.3.5
+
+- [ ] Do 13 subtasks from 1 to 13 and add screenshots of each:
+    1. [ ] `[FILL HERE with screen capture of subtask 1]`
+    1. [ ] `[FILL HERE with screen capture of subtask 2]`
+    1. [ ] `[FILL HERE with screen capture of subtask 3]`
+    1. [ ] `[FILL HERE with screen capture of subtask 4]`
+    1. [ ] `[FILL HERE with screen capture of subtask 5]`
+    1. [ ] `[FILL HERE with screen capture of subtask 6]`
+    1. [ ] `[FILL HERE with screen capture of subtask 7]`
+    1. [ ] `[FILL HERE with screen capture of subtask 8]`
+    1. [ ] `[FILL HERE with screen capture of subtask 9]`
+    1. [ ] `[FILL HERE with screen capture of subtask 10]`
+    1. [ ] `[FILL HERE with screen capture of subtask 11]`
+    1. [ ] `[FILL HERE with screen capture of subtask 12]`
+    1. [ ] `[FILL HERE with screen capture of subtask 13]`
+
+- [ ] `[FILL HERE with image of hello based code]`
+- [ ] `[FILL HERE with image of hello based code running]`
+
+- [ ] `[FILL HERE with image of adder code]`
+- [ ] `[FILL HERE with image of adder running]`
