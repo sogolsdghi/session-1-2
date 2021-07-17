@@ -204,4 +204,7 @@
   
 - یک فراخوانی سیستمی با نام adder بنویسید که دو عدد را با یکدیگر جمع کند.
 
+
+برای اطلاعات بیشتر می‌توانید به [https://seshagiriprabhu.wordpress.com/2012/11/15/adding-a-simple-system-call-to-the-linux-3-2-0-kernel-from-scratch/](https://seshagiriprabhu.wordpress.com/2012/11/15/adding-a-simple-system-call-to-the-linux-3-2-0-kernel-from-scratch/) مراجعه کنید.
+
 </div>
