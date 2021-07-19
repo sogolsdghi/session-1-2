@@ -1,13 +1,13 @@
 ---
 name: تمپلیت گزارش آزمایش دوم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
-title: Session 2 Report for Team [TEAM NUMBER HERE]
+title: Session 2 Report
 labels: documentation
 assignees: mhaghighat20
 
 ---
 
-Team Number: `[FILL HERE]`
+Team Name: `[FILL HERE]`
 
 Student Name of member 1: `[FILL HERE]`
 Student No. of member 1: `[FILL HERE]`
