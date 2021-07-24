@@ -123,7 +123,7 @@
 
     ```shell
     apt-get install build-essential fakeroot
-    apt-get install build-dep linux
+    apt-get build-dep linux
     ```
         
     </div>
