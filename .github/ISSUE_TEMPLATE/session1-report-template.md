@@ -3,7 +3,7 @@ name: تمپلیت گزارش آزمایش اول
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
 title: Session 1 Report
 labels: documentation
-assignees: mhaghighat20
+assignees: pourmand1376
 
 ---
 
