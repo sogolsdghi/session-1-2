@@ -33,6 +33,7 @@
     
 # بعضی توزیع های لینوکس
 
+* [Manjaro](https://manjaro.org/)
 * [Deepin](https://www.deepin.org/en/)
     
     
