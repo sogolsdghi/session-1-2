@@ -23,8 +23,11 @@
 سیستم عامل Debian 8
 
 
-## لینک های مفید
-(Download Ubuntu LTS)[https://ubuntu.com/download/desktop]
+# لینک های مفید
+
+* [Download Ubuntu LTS](https://ubuntu.com/download/desktop)
+* [Desktop Environments](https://en.wikipedia.org/wiki/Desktop_environment)
+* [Package Managers in linux](https://en.wikipedia.org/wiki/Package_manager)
 
 ## ۱.۳ شرح آزمایش
 
