@@ -23,6 +23,9 @@
 سیستم عامل Debian 8
 
 
+## لینک های مفید
+(Download Ubuntu LTS)[https://ubuntu.com/download/desktop]
+
 ## ۱.۳ شرح آزمایش
 
 
