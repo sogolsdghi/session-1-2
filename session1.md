@@ -30,7 +30,12 @@
 * [Download Ubuntu LTS](https://ubuntu.com/download/desktop)
 * [Desktop Environments](https://en.wikipedia.org/wiki/Desktop_environment)
 * [Package Managers in linux](https://en.wikipedia.org/wiki/Package_manager)
+    
+# بعضی توزیع های لینوکس
 
+* [Deepin](https://www.deepin.org/en/)
+    
+    
 ## ۱.۳ شرح آزمایش
 
 قبل از شروع آزمایش به یک سوال مهم پاسخ دهیم. چرا کامند میزنیم و چرا shell را یاد میگیریم؟
