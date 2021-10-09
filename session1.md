@@ -30,6 +30,7 @@
 * [Download Ubuntu LTS](https://ubuntu.com/download/desktop)
 * [Desktop Environments](https://en.wikipedia.org/wiki/Desktop_environment)
 * [Package Managers in linux](https://en.wikipedia.org/wiki/Package_manager)
+* [Explain Shell Commands](https://explainshell.com/)
     
 # بعضی توزیع های لینوکس
 
