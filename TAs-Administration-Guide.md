@@ -14,9 +14,7 @@
 
 ## راه اندازی github classroom
 * اگر دستیار آموزشی ارائه دهنده آزمایشگاه هستید  قبل از هر چیز لازم است نقش Admin در Organization مربوط به آزمایشگاه در github به آدرس [https://github.com/Sharif-OS-Lab](https://github.com/Sharif-OS-Lab) داشته باشید، بدون این نقش امکان اتصال github classroom به صفحه آزمایشگاه سیستم عامل و تعریف کلاس و لیست دانشجویان را نخواهید داشت.
-
 *  ورود به https://classroom.github.com و ساخت کلاس متصل به Sharif-OS-Lab
-
 * برای تعریف لیست دانشجویان و تمرین به [این لینک](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms) مراجعه کنید.
 
 کانال تلگرام آزمایشگاه: https://t.me/Sharif_OS_Lab
