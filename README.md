@@ -1,4 +1,4 @@
-<div dir="rtl" align='justify'>
+
 
 # مقدمه
 
@@ -48,4 +48,4 @@
 
 کانال تلگرام آزمایشگاه: https://t.me/Sharif_OS_Lab
   
-</div>
+
