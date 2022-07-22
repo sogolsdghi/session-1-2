@@ -3,7 +3,7 @@ name: تمپلیت گزارش آزمایش دوم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
 title: Session 2 Report
 labels: documentation
-assignees: amirhossein1376
+assignees: mahdiplj
 
 ---
 
