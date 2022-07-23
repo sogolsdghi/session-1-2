@@ -28,6 +28,7 @@
 # لینک های مفید
 
 * [Download Ubuntu LTS](https://ubuntu.com/download/desktop)
+* [Download Debian 8 (jessie)](https://www.debian.org/releases/jessie/debian-installer)
 * [Desktop Environments](https://en.wikipedia.org/wiki/Desktop_environment)
 * [Package Managers in linux](https://en.wikipedia.org/wiki/Package_manager)
 * [Explain Shell Commands](https://explainshell.com/explain?cmd=rm+-rf+temp)
@@ -62,7 +63,7 @@
 برای دریافت راهنمایی در مورد هرکدام از دستورات ارائه شده در ادامه می توانید از دستور man [command] استفاده کنید. در گزارش خود،
 دستورات مورد استفاده در هریک از مراحل زیر را بیاورید.
 
-البته استفاده از [tldr](https://github.com/isacikgoz/tldr++) هم در بسیاری از موارد توصیه می شود.
+البته استفاده از [tldr](https://github.com/isacikgoz/tldr) هم در بسیاری از موارد توصیه می شود.
     
 1. به کمک دستور pwd آدرس دایرکتوری جاری را نمایش دهید.
 
