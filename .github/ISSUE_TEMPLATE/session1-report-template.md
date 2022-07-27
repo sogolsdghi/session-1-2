@@ -43,7 +43,7 @@ Student No. of member 2: `[FILL HERE]`
     1. [ ] `[FILL HERE with screen capture of subtask 13]`
 
 - For subtask 7 write difference between `>` and `>>`
-    - [ ] 1. `[FILL HERE with screen capture of subtask 7]`
+    - [ ]
 
 ## Section 1.4 
 
