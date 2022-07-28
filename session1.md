@@ -134,7 +134,7 @@
     <div dir="ltr">
 
     ```shell
-    apt-get install linux-source-3.2
+    apt-get install linux-source
     ```
         
     </div>
@@ -157,7 +157,7 @@
         
     </div>
 
-1. یک پوشه با نام linux-source-3.2 ایجاد شده که حاوی کد هسته ی لینوکس می باشد.
+1. یک پوشه با نام linux-source-{version} ایجاد شده که حاوی کد هسته ی لینوکس می باشد.
 
 
 
