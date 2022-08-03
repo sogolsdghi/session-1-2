@@ -19,7 +19,7 @@ Student No. of member 2: `[FILL HERE]`
 
 ### Section 1.3.1
 - [ ] Choose one of Virtual Machine Softwares, such as VirtualBox, VMware, ...
-    1. [ ] `[FILL HERE with Virtual Machine Software you choosed]`
+    1. [ ] `[FILL HERE with the Virtual Machine Software you have chosen]`
 - [ ] Install Debian on Virtual Machine, add three screenshots from install process
     1. [ ] `[FILL HERE with image 1]`
     1. [ ] `[FILL HERE with image 2]`
